@@ -1,4 +1,4 @@
-# CitizenTech — Idoso em casa com mais segurança
+# CitizenTech - Idoso em casa com mais segurança
 **Global Solution 2026/2 · FIAP · Mastering Relational and Non-Relational Database**
 
 ## Integrantes
